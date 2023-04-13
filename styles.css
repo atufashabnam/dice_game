@@ -1,0 +1,39 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font: "Merriweather";
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #FFDD83;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #98DFD6;
+  font-size: 8rem;
+  color: #00235B;
+}
+
+p {
+  font-size: 2rem;
+  color: #00235B;
+  
+}
+
+img {
+  width: 80%;
+}
+.btn {
+align: center;
+size: 10rem;
+margin-top: 50px;
+}
